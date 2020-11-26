@@ -1,0 +1,66 @@
+{
+  "error-message": {
+    "404": "请求资源不存在！",
+    "500": "内部错误，请稍后重试！",
+    "503": "服务器正在维护，请稍等！",
+    "login-error": "验证失败，请重新登录!",
+    "login-expire": "登录已过期，请重新登录！",
+    "network-anomaly": "网络异常，请稍后再试！"
+  },
+  "language": {
+    "chinese": "中文",
+    "english": "英文",
+    "japanese": "日文",
+    "select-success": "切换语言成功！"
+  },
+  "loading": "拼命加载中",
+  "login-message": {
+    "login-fail": "登录失败！",
+    "login-success": "登录成功！"
+  },
+  "navBarTooltips": {
+    "cancleFullScreen": "取消全屏",
+    "fullScreen": "全屏",
+    "locales": "国际化",
+    "notification": "您有{num}条未读消息"
+  },
+  "route": {
+    "all-message": "全部消息",
+    "approve": "流程审批",
+    "dashboard": "首页",
+    "department": "部门管理",
+    "document": "我的文档",
+    "ending": "项目收尾",
+    "engineering": "",
+    "global": "全局管理",
+    "implement": "项目执行",
+    "menu": "菜单管理",
+    "monitor": "项目监控",
+    "notification": "消息通知",
+    "paln": "任务计划",
+    "personal": "个人中心",
+    "personal-message": "个人消息",
+    "personal-project": "我的项目",
+    "plan": "项目策划",
+    "process": "流程管理",
+    "process-message": "流程消息",
+    "process-setting": "流程设置",
+    "project": "项目管理",
+    "schedule": "日程计划",
+    "simulation": "",
+    "start": "项目启动",
+    "system": "系统设置",
+    "system-message": "系统消息",
+    "table": "日程表",
+    "task": "我的任务",
+    "todo": "我的待办",
+    "user": "用户管理",
+    "view": "流程查看",
+    "workNote": "工作笔记"
+  },
+  "tagsView": {
+    "close": "关闭",
+    "closeAll": "关闭所有",
+    "closeOthers": "关闭其他"
+  }
+}

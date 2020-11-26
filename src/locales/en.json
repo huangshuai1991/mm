@@ -1,0 +1,66 @@
+{
+  "error-message": {
+    "404": "The requested resource does not exist!",
+    "500": "Internal error, please try again later!",
+    "503": "The server is under maintenance, please wait!",
+    "login-error": "Authentication failed, please log in again!",
+    "login-expire": "Login has expired, please log in again!",
+    "network-anomaly": "Network anomalies, please try again later!"
+  },
+  "language": {
+    "chinese": "Chinese",
+    "english": "English",
+    "japanese": "Japanese",
+    "select-success": "Successfully switched language!"
+  },
+  "loading": "loading",
+  "login-message": {
+    "login-fail": "Login failed!",
+    "login-success": "Login Successful!"
+  },
+  "navBarTooltips": {
+    "cancleFullScreen": "Cancel full screen",
+    "fullScreen": "Full screen",
+    "locales": "Globalization",
+    "notification": "You have {num} unread messages"
+  },
+  "route": {
+    "all-message": "All Message",
+    "approve": "Process Approval",
+    "dashboard": "Dashboard",
+    "department": "Department",
+    "document": "My document",
+    "ending": "Project Closing",
+    "engineering": "Engineering",
+    "global": "Global Management",
+    "implement": "Project Implementation",
+    "menu": "Menu",
+    "monitor": "Project Monitoring",
+    "notification": "Notification",
+    "paln": "Mission Plan",
+    "personal": "Personal Center",
+    "personal-message": "Personal Message",
+    "personal-project": "My Project",
+    "plan": "Project Planning",
+    "process": "Process Management",
+    "process-message": "Process Message",
+    "process-setting": "Process Settings",
+    "project": "Project",
+    "schedule": "Schedule Plan",
+    "simulation": "Simulation",
+    "start": "Project Begining",
+    "system": "System",
+    "system-message": "System Message",
+    "table": "Schedule",
+    "task": "My Task",
+    "todo": "My To Do",
+    "user": "User",
+    "view": "Process View",
+    "workNote": "Work Notes"
+  },
+  "tagsView": {
+    "close": "Close",
+    "closeAll": "Close all",
+    "closeOthers": "Close other"
+  }
+}

@@ -1,0 +1,66 @@
+{
+	"error-message": {
+		"404": "リクエストされたリソースは存在しません！",
+		"500": "内部エラーです。しばらくしてからもう一度お試しください！",
+		"503": "サーバーはメンテナンス中です。お待ちください！",
+		"login-error": "認証に失敗しました。もう一度ログインしてください！",
+		"login-expire": "ログインの有効期限が切れています。もう一度ログインしてください！",
+		"network-anomaly": "ネットワークの異常です。しばらくしてからもう一度お試しください！"
+	},
+	"language": {
+		"chinese": "中国語",
+		"english": "英語",
+		"japanese": "日本語",
+		"select-success": "言語を切り替えました！"
+	},
+	"loading": "読み込み中",
+	"login-message": {
+		"login-fail": "ログインに失敗しました！",
+		"login-success": "ログイン成功！"
+	},
+	"navBarTooltips": {
+		"cancleFullScreen": "全画面をキャンセル",
+		"fullScreen": "全画面",
+		"locales": "グローバリゼーション",
+		"notification": "{num}件の未読メッセージがあります"
+	},
+	"route": {
+		"all-message": "すべてのニュース",
+		"approve": "プロセス承認",
+		"dashboard": "ホームページ",
+		"department": "部門管理",
+		"document": "私の文書",
+		"ending": "プロジェクト終了",
+		"engineering": "エンジニアリング管理",
+		"global": "グローバル経営",
+		"implement": "プロジェクトの実施",
+		"menu": "メニュー管理",
+		"monitor": "プロジェクトの監視",
+		"notification": "通知",
+		"paln": "ミッション計画",
+		"personal": "パーソナルセンター",
+		"personal-message": "プライベート・メッセージ",
+		"personal-project": "私のプロジェクト",
+		"plan": "プロジェクト計画",
+		"process": "プロセス管理",
+		"process-message": "メッセージの処理",
+		"process-setting": "プロセス設定",
+		"project": "プロジェクト管理",
+		"schedule": "スケジュール計画",
+		"simulation": "シミュレーション管理",
+		"start": "プロジェクト開始",
+		"system": "システムマネジメント",
+		"system-message": "システムインフォメーション",
+		"table": "スケジュール",
+		"task": "私の仕事",
+		"todo": "私がすること",
+		"user": "ユーザー管理",
+		"view": "プロセスビュー",
+		"workNote": "作業メモ"
+	},
+	"tagsView": {
+		"close": "閉じる",
+		"closeAll": "すべて閉じる",
+		"closeOthers": "他を閉じる"
+	}
+}
