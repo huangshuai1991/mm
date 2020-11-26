@@ -1,5 +1,5 @@
 export default {
-  title: 'INTESIM',
+  title: 'VUELESS',
   logo: 'I',
-  author: '英特',
+  author: '前端',
 }
